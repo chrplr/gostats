@@ -1,4 +1,4 @@
-module gostats
+module github.com/chrplr/gostats
 
 go 1.18
 

@@ -7,7 +7,7 @@ import (
 	"math"
 	"os"
 	"flag"
-	"gostats"
+	"github.com/chrplr/gostats"
 )
 
 

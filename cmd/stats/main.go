@@ -6,7 +6,7 @@ import (
 	"bufio"
 	"fmt"
 	"log"
-	"gostats"
+	"github.com/chrplr/gostats"
 )
 
 
